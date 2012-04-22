@@ -6,7 +6,7 @@ A graph drawing apps with artificial intelligent run BFS and DFS algorithm
 Screenshot
 ----------
 
-![Graphari-Smart Screenshot](screenshot.jpg)
+![Graphari-Smart Screenshot](/screenshot.jpg)
 
 Introduction
 --------------
