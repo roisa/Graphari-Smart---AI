@@ -1,4 +1,4 @@
-Graphari-Smart -- AI
+Graphari Smart - AI
 ====================
 
 A graph drawing apps with artificial intelligent run BFS and DFS algorithm
